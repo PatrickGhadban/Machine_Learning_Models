@@ -1,4 +1,6 @@
-* Used an example dataset, created using random values (decelerated growth) as well as, a csv showing salary prices of different level positions (accelerated growth)
+* Used the following DataSets:
+    * Numpy array of randomly generated values (decelerated growth) 
+    * csv showing salary prices of different level positions (accelerated growth)
 
 * Underfitting is usually caused due to either:
     * A lack of data to build an accurate model or attempting to build a linear
