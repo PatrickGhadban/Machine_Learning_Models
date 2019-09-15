@@ -1,4 +1,3 @@
-* Ran a Linear Regression Model against hthe Boston Housing Dataset and the Diabetes Dataset
 
 # Boston Housing DataSet
 * Used a heatmap to create a correlation matrix that measures the relationships between the variables.
