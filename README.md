@@ -6,9 +6,9 @@
 
 1. Linear Regression
 2. Polynomial Regression
+3. Logistic Regression
 
 * SOON TO COME:
-3. Logistic Regression
 4. Support Vector Machines (SVM)
 5. K Nearest Neighbors
 6. K-Means Clustering
