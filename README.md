@@ -1,3 +1,5 @@
+Taking a temporary leave to focus on interviews, will continue directly after
+
 # Machine_Learning_Models
 
 * Currently taking a Machine Learning course by Andrew Ng (link below) to better understand the mathematics behind the code. This repositoty contains Machine Learning Algorithms implemented in Python.
